@@ -4,11 +4,11 @@ A collection of Three.js projects built while learning 3D web development. Each 
 
 ## 📁 Projects
 
-| Folder | Description |
-| --- | --- |
-| `03` | First Three.js project — setting up a scene, camera, and renderer |
-| `04` | Transforms, animations, and Vite dev workflow |
-| `starter-pack` | Boilerplate template for new exercises |
+| Folder | Description                                                       |
+| ------ | ----------------------------------------------------------------- |
+| `03`   | First Three.js project — setting up a scene, camera, and renderer |
+| `04`   | Transform objects and groups                                      |
+| `05`   | Animation                                                         |
 
 ## 🚀 Getting Started
 
