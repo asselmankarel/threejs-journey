@@ -27,7 +27,7 @@ const roughnessTexture = textureLoader.load("/textures/door/roughness.jpg");
 colorTexture.generateMipmaps = false;
 colorTexture.minFilter = THREE.NearestFilter;
 colorTexture.magFilter = THREE.NearestFilter;
-
+colorTexture.Ro
 const canvas = document.querySelector("canvas.webgl");
 const scene = new THREE.Scene();
 
